@@ -1,0 +1,5 @@
+{
+  "name": "Cerita Generator",
+  "description": "A browser-based application to split stories, generate TTS audio and image slides, and compile them into a final video. Features include smart text splitting, multi-API key support for Google Gemini, client-side video processing with ffmpeg.wasm, and customizable prompt generation.",
+  "requestFramePermissions": []
+}
